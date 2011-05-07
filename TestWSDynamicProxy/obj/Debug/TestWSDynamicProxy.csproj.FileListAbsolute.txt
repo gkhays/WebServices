@@ -1,0 +1,6 @@
+C:\Users\haysg\WebServices\build\bin\Debug\TestProxy.dll.config
+C:\Users\haysg\WebServices\build\bin\Debug\TestProxy.dll
+C:\Users\haysg\WebServices\build\bin\Debug\TestProxy.pdb
+C:\Users\haysg\WebServices\TestWSDynamicProxy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\haysg\WebServices\TestWSDynamicProxy\obj\Debug\TestProxy.dll
+C:\Users\haysg\WebServices\TestWSDynamicProxy\obj\Debug\TestProxy.pdb
