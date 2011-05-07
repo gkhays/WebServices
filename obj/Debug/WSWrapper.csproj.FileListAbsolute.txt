@@ -1,5 +1,0 @@
-C:\Users\haysg\WebServices\build\bin\Debug\WSWrapper.dll
-C:\Users\haysg\WebServices\build\bin\Debug\WSWrapper.pdb
-C:\Users\haysg\WebServices\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\haysg\WebServices\obj\Debug\WSWrapper.dll
-C:\Users\haysg\WebServices\obj\Debug\WSWrapper.pdb
