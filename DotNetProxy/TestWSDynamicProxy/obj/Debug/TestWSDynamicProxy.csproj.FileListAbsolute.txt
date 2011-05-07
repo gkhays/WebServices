@@ -1,6 +1,0 @@
-C:\Users\haysg\WebServices\Proxy\build\bin\Debug\TestProxy.dll.config
-C:\Users\haysg\WebServices\Proxy\build\bin\Debug\TestProxy.dll
-C:\Users\haysg\WebServices\Proxy\build\bin\Debug\TestProxy.pdb
-C:\Users\haysg\WebServices\Proxy\TestWSDynamicProxy\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\haysg\WebServices\Proxy\TestWSDynamicProxy\obj\Debug\TestProxy.dll
-C:\Users\haysg\WebServices\Proxy\TestWSDynamicProxy\obj\Debug\TestProxy.pdb
