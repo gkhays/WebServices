@@ -2,3 +2,6 @@
 *.dll
 *.exe
 
+# Intermediate Directories #
+obj/
+
