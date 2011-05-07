@@ -1,0 +1,5 @@
+C:\Users\haysg\WebServices\Proxy\build\bin\Debug\WSWrapper.dll
+C:\Users\haysg\WebServices\Proxy\build\bin\Debug\WSWrapper.pdb
+C:\Users\haysg\WebServices\Proxy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\haysg\WebServices\Proxy\obj\Debug\WSWrapper.dll
+C:\Users\haysg\WebServices\Proxy\obj\Debug\WSWrapper.pdb
